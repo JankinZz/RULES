@@ -1,6 +1,5 @@
 
 ;设置规则标志位
-rules:
 - DOMAIN-SUFFIX,missav.com,📹 油管视频
 - DOMAIN-KEYWORD,mcusercontent,🚀 节点选择
 - DOMAIN-KEYWORD,emag,🚀 节点选择
