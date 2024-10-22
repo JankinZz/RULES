@@ -6,8 +6,8 @@
 - PROCESS-NAME,Applite,🇭🇰 香港节点
 - DOMAIN-SUFFIX,phind.com,💬 OpenAi
 - DOMAIN-KEYWORD,etsy,🇭🇰 香港节点
-- DOMAIN-SUFFIX,hddolby.com,DIRECT
-- DOMAIN-KEYWORD,amazon,DIRECT
+rule=DOMAIN-SUFFIX,hddolby.com,DIRECT
+DOMAIN-KEYWORD,amazon,DIRECT
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
