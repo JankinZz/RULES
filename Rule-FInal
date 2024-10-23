@@ -1,12 +1,5 @@
-rules:
-  - DOMAIN-SUFFIX,missav.com,📹 油管视频
-  - DOMAIN-KEYWORD,mcusercontent,🚀 节点选择
-  - DOMAIN-KEYWORD,emag,🚀 节点选择
-  - PROCESS-NAME,Applite,🇭🇰 香港节点
-  - DOMAIN-SUFFIX,phind.com,💬 OpenAi
-  - DOMAIN-KEYWORD,etsy,🇭🇰 香港节点
-  - DOMAIN-SUFFIX,hddolby.com,DIRECT
-  - DOMAIN-KEYWORD,amazon,DIRECT
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/JankinZz/RULES/refs/heads/main/Direct
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/JankinZz/RULES/refs/heads/main/Proxy
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
