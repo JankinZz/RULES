@@ -5,9 +5,4 @@ DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,onlinebarcodereader.com
 DOMAIN-KEYWORD,etsy
 DOMAIN-SUFFIX,parsec.app
-DOMAIN-SUFFIX,temu.com,Proxy
-DOMAIN-SUFFIX,temu.de,Proxy
-DOMAIN-SUFFIX,temu.it,Proxy
-DOMAIN-SUFFIX,temu.fr,Proxy
-DOMAIN-SUFFIX,temu.ro,Proxy
-DOMAIN-SUFFIX,temu.co.uk,Proxy
+DOMAIN-SUFFIX,temu.com
